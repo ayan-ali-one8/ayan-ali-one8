@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there! 👋 I'm a Web Developer
 
-<!--
-**ayan-ali-one8/ayan-ali-one8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+- 🚀 Passionate about building responsive and dynamic websites.
+- 💻 My tech stack: HTML, CSS, JavaScript, and Python.
+- 🌱 Currently exploring new ways to level up my web development skills.
+- 📬 How to reach me: *(ayan.ali.1ne8@gmail.com
+- )*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayan-ali-one8 HERE&show_icons=true&theme=tokyonight" />
+</p>
